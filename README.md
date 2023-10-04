@@ -57,7 +57,7 @@ Silahkan gunakan environment code ini. Environment ini mencakup semua packages y
 ## Step 4: Instalasi Environment
 - Change directory `cd` ke folder kerja ini
     ```
-    cd Pytorch_Bootcamp/
+    cd Pytorch_Bootcamp/pytorch_notebooks
     ```
 - Jalankan command ini untuk menginstall environment `pytorch`
     ```
