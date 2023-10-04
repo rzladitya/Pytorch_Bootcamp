@@ -59,7 +59,7 @@ Silahkan gunakan environment code ini. Environment ini mencakup semua packages y
     ```
     cd Pytorch_Bootcamp/
     ```
-- Jalankan command ini untuk menginstall environment `jcop`
+- Jalankan command ini untuk menginstall environment `pytorch`
     ```
     conda env create -f pytorch_course_env.yml
     ```
