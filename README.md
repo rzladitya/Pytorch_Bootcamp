@@ -1,9 +1,8 @@
-# JCOp Conda Environment
-Silahkan gunakan environment ini apabila kamu sudah menyelesaikan course saya. Environment ini mencakup semua packages yang dipakai di seluruh course sehingga dapat dipakai sebagai environment untuk pekerjaan secara umum.
+# Pytorch Bootcamp
+Silahkan gunakan environment code ini. Environment ini mencakup semua packages yang dipakai di seluruh course sehingga dapat dipakai sebagai environment untuk pekerjaan secara umum.
 
 # Starter Guide
 ## Step 1: Download materi
-- Klik disini untuk [Download ZIP](https://codeload.github.com/WiraDKP/jcop_conda_environment/zip/master), atau
 - Bagi yang familiar dengan git, boleh menggunakan clone
     ```
     git clone https://github.com/WiraDKP/jcop_conda_environment.git
