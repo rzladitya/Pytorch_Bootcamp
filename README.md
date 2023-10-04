@@ -57,23 +57,9 @@ Silahkan gunakan environment code ini. Environment ini mencakup semua packages y
 ## Step 4: Instalasi Environment
 - Change directory `cd` ke folder kerja ini
     ```
-    cd jcop_conda_environment/
+    cd Pytorch_Bootcamp/
     ```
-- Jalankan command ini untuk menginstall environment `jcop`
+- Jalankan command ini untuk menginstall environment `pytorch`
     ```
-    conda env create -f env_jcop.yml
-    ```
-
-## Step 5: Memastikan environment terinstall dengan baik
-- Jalankan command berikut untuk mengecek instalasi dan ikuti instruksi yang dihasilkan
-    ```
-    python check_installation.py
-    ```
-- Jika sudah aman, maka akan muncul keterangan berikut, dan kita bisa mulai belajar. Semangat!
-    ```
-    ✓ jupyter telah terinstall dengan baik
-    ✓ nb_conda_kernels telah terinstall dengan baik
-    ✓ Environment jcop_recsys terdeteksi
-    ✓ Package telah terinstall dengan baik di dalam environment jcop
-    ✓ Instalasi berjalan dengan baik. Selamat belajar!
+    conda env create -f pytorch_course_env.yml
     ```
