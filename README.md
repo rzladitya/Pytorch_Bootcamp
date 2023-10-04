@@ -5,7 +5,7 @@ Silahkan gunakan environment code ini. Environment ini mencakup semua packages y
 ## Step 1: Download materi
 - Bagi yang familiar dengan git, boleh menggunakan clone
     ```
-    git clone https://github.com/WiraDKP/jcop_conda_environment.git
+    git clone https://github.com/rzladitya/Pytorch_Bootcamp.git
     ```
 
 ## Step 2: Instalasi Miniconda
